@@ -7,7 +7,7 @@ Welcome to the Cotton Leaf Disease Detection Web Application! This application u
 
 1. Run the Flask application.
    ```
-   flask run
+   python app.py
    ```
 2. Open your web browser and navigate to `http://127.0.0.1:5000`.
 
